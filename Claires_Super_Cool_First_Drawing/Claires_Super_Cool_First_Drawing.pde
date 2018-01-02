@@ -1,0 +1,13 @@
+size(800,800); stroke(#9716F5);
+background(#918EFF);
+fill(#F51638);
+ellipse(400,400,300,300); 
+fill(#16F5B0);
+ellipse(200,200,150,150);
+rect(600,400,130,130);
+fill(#FFF36F); stroke(#FF00F3);
+rect(615,415,100,100);
+fill(#0035FF); stroke(#23F53C);
+rect(630,430,70,70);
+fill(#0A0A03); stroke(#FFFFFF);
+rect(645,445,40,40);
